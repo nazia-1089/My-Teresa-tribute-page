@@ -22,3 +22,4 @@ You will now be using git and vscode to:
 Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 Make sure that the deployed branch is `main` in settings.
+COMPLETE
